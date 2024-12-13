@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Drawing/Painting<br>📚 I'm currently learning hot to make a website<br>🎯 Goals: Becoming a developer front-end <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Drawing/Painting<br>📚 I'm currently learning how to make a website<br>🎯 Goals: Becoming a developer front-end <br>🎲 Fun fact: ...</p>
 
 ###
 
